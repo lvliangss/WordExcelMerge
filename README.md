@@ -1,2 +1,2 @@
 # WordExcelMerge
-use to merge excel or word with GUI
+use to merge excel or word with GUI, language:python
